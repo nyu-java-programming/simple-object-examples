@@ -1,18 +1,12 @@
-## Getting Started
+# Simple Object-Oriented Programming Example.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+An example that shows some of the key concepts of abstraction and encapsulation in object-oriented programming, including:
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- a `Dog` class definition that includes:
+  - overloaded constructor functions
+  - `private` properties
+  - `getter` method examples
+  - `setter` method example with validation
+  - non-`static` properties and methods that belong to each object
+  - a `static` property and a `static` method that belong to the class
+- a `TestDog` file that instantiates a few dog objects and toys around with them.
