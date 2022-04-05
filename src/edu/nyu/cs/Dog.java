@@ -1,3 +1,5 @@
+package edu.nyu.cs;
+
 /**
  * A virtual representation of the concept, Dog.
  * Objects will be instantiated from this class in the TestDrive.java file.
