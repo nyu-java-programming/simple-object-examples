@@ -1,4 +1,4 @@
-package edu.nyu.cs;
+package dogs;
 
 public class TestDog {
 

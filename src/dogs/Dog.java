@@ -1,4 +1,4 @@
-package edu.nyu.cs;
+package dogs;
 
 /**
  * A virtual representation of the concept, Dog.
